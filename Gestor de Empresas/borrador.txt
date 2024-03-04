@@ -1,0 +1,4 @@
+FUNCIONALIDADES
+
+Inicio de sesion y register
+    -Solo existira un rol = Admin
